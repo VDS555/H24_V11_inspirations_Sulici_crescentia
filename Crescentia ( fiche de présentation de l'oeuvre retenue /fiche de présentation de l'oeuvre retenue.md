@@ -20,7 +20,7 @@ Pour toutes les composantes sur la liste, on aurais :
 
 ## Mise en espace.
 Cette oeuvre est positionée a l'entrée du grand studio du College Montmorency. L'oeuvre est tout de suite a notre gauche, du moment auquel on entre dans le grand studio. Sur le mur de gauche, s'y retrouve la projection du jeux sur le mur, grace au projecteur directement en face de celui-ci. Nous avons des délimitations en forme de carrés par terre pour nous indiquer quelles sont les limites du capteur de mouvements.
-
+![media](media/dispositif2.jpeg)
 
 ## Fonction du dispositif multimédia.
 La fonction de ce dispositif est d'offrir une experience interresante et basée entierement sur l'interractivité. Plonger l'utilisateur dans un type de deux tres different que d'habitude. On sais tous que les jeux videos sont jouables sur des manettes et clavier et sourie, mais qu'en est t'il du capteur de mouvements ? Cette question, on tempte d'y repondre avec ce dispositif. 
