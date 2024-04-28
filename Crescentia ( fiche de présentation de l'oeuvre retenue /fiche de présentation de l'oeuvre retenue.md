@@ -17,6 +17,9 @@ Pour toutes les composantes sur la liste, on aurais :
   - savoir faire pour le code de ceux-ci
   - savoir faire pour lier les composants et le code
   - savoir faire pour le bon foctionement de l'oeuvre
+![media](media/cables_realisation.jpeg)
+
+
 
 ## Mise en espace.
 Cette oeuvre est positionée a l'entrée du grand studio du College Montmorency. L'oeuvre est tout de suite a notre gauche, du moment auquel on entre dans le grand studio. Sur le mur de gauche, s'y retrouve la projection du jeux sur le mur, grace au projecteur directement en face de celui-ci. Nous avons des délimitations en forme de carrés par terre pour nous indiquer quelles sont les limites du capteur de mouvements.
