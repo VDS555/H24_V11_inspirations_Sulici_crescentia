@@ -18,7 +18,7 @@ Pour toutes les composantes sur la liste, on aurais :
   - savoir faire pour lier les composants et le code
   - savoir faire pour le bon foctionement de l'oeuvre
 ![media](media/cables_realisation.jpeg)
-
+![media](media/speaker.jpeg)
 
 
 ## Mise en espace.
