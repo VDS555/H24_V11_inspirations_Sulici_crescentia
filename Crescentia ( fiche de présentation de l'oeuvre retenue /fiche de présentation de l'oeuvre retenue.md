@@ -24,7 +24,7 @@
 
 
 
-![media](media/speaker.jpeg)
+![media](media/dispositif1.jpeg.jpeg)
 
 
 
