@@ -1,7 +1,5 @@
 # fiche de présentation de l'oeuvre retenue.
 
-![media](media/dispositif1.jpeg.jpeg)
-
 ## Composantes et techniques.
 Pour toutes les composantes sur la liste, on aurais :
 
@@ -35,6 +33,8 @@ Le type d'instalation, c'est interractif, car le but de cette oeuvre est de joue
 
 ## Description de l'oeuvre ou du dispositif.
 L'oeuvre est tres similaire au jeux " Just Dance " , cet a dire ; Il y a un capteur de mouvements qui traque tout les mouvements de votre corps. Celui-ci transmet l'information a l'ordinateur. L'ordinateur fait ensuite bouger un personage sur la projection du projecteur, et cela par rapport a vos mouvements. Il y a des murs qui avancent et le but du jeux est simple ; de bouger et d'éviter les murs qui bougent. Le score monte et le but est de faire le plus haut score possible. Les murs qui bougent deviennent plus vite plus le temp passe. Il y a des speakers qui projettent le son du jeux. Aussi, il  a des délimitations par terre indiquant a l'utilisateur la zone qui est detectée par le capteur de mouvements.
+![media](media/dispositif1.jpeg.jpeg)
+
 
 ## Éléments nécessaires à la mise en exposition.
 Voici une liste de chaque éléments nécessaires à la mise en exposition ( les éléments monté ) :
