@@ -2,7 +2,7 @@
 
 ## 
 
-![media](media/.jpg)
+![media](media/speaker.jpg)
 
 
 
