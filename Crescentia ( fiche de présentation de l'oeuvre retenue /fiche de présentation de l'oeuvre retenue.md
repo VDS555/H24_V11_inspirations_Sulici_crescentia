@@ -1,5 +1,7 @@
 # fiche de présentation de l'oeuvre retenue.
 
+![media](media/dispositif1.jpeg.jpeg)
+
 ## Composantes et techniques.
 Pour toutes les composantes sur la liste, on aurais :
 
@@ -43,7 +45,7 @@ Voici une liste de chaque éléments nécessaires à la mise en exposition ( les
 
 
 
-![media](media/dispositif1.jpeg.jpeg)
+
 
 
 
