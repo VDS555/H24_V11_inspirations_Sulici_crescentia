@@ -68,6 +68,17 @@ Voici une liste de chaque éléments nécessaires à la mise en exposition ( les
 - des speakers
 - capteurs de mouvements
 
+## Experience vécue
+ce qui serait attendu d'un utilisayeur, c'est tout simplement de s'amuser! Et oui, cette oeuvre est entierement dépendante sur l'interractivité, et ce n'est pas mauvais du tout. On essaie, comme dans un jeux vidéo, de faire le score le plus haut en esquivant les obstacles. L'experience pendant la partie constitue la magie de l'oeuvre. Personellement, je suis arrivé a l'exposition et c'est la premiere oeuvre que j'ai essayer
+
+
+
+## ce qui m'a plu
+Personellement, je trouve que l.entieretée de l'oeuvre était non seulement agréable, mais tout aussi impressionante. L'interractivité fesait déja une grande partie. La détection des mouvements était limité,
+
+## ce que je ne retiendrait pas
+
+
 
 
 
