@@ -3,11 +3,11 @@
 ## Introduction et informations
 Le mercredi 13 Mars 2024. Nous sommes tous allés voir l'expositions des finnissants du programme Multimedia : Crescentia. Dans celle-ci, on retrouve l'oeuvre « Kigo », que je présenterais en détails sous peut. Voici les crédits de réalisation, l'équipe derriere ce splendide projet créatif :
 
-Érick Ouellette
-William Rathier Maily
-Gabriel Cleval
-Nicolas St-Martin
-Antoine Dion
+- Érick Ouellette
+- William Rathier Maily
+- Gabriel Cleval
+- Nicolas St-Martin
+- Antoine Dion
 
 
 ## Composantes et techniques.
