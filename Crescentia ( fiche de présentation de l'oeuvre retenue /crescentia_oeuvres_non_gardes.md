@@ -31,6 +31,52 @@ Voici une liste de l'équipement necessaire :
 
 - Audio
 
+- 4 haut-parleurs actifs de 4"
+- 5 fils XLR 3 conducteurs de 15'
+- powercon
+- Vidéo
+
+- 4 systèmes d'acrochage
+- 2 kinects
+- 3 cables HTMI
+- Lumière
+
+- 1 lumières LED RGBAW DMX
+- 2 fils XLR 3 conducteurs de 20'
+- powercon
+- Électricité
+
+- 2 cordons IEC (pour l'alimentation des haut-parleurs)
+- 2 extention
+- Réseau
+
+- 4 cables ethernet
+- 3 received et transmited
+- Ordinateurs
+
+- 1 ordinateurs portables
+
+
+Sources :https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
+
+## Sonalus
+
+
+
+
+### Équipe
+Voici l'équipe de Sonalus :
+
+- Antoine Haddad
+- Camélie Laprise
+- Ghita Alaoui
+- Vincent Desjardins
+
+## équipement necessaire 
+Voici une liste de l'équipement necessaire :
+
+- Audio
+
 - 2 haut-parleurs actifs de 4"
 - 4 fils XLR 3 conducteurs de 15' (M->F)
 - Interface audio USB disposant 8 sorties et au moins 1 entrée
@@ -73,23 +119,6 @@ Voici une liste de l'équipement necessaire :
 - Podium
 - 4 crochets
 
-Sources :https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
-
-## Sonalus
-
-
-
-
-### Équipe
-Voici l'équipe de Sonalus :
-
-- Antoine Haddad
-- Camélie Laprise
-- Ghita Alaoui
-- Vincent Desjardins
-
-## équipement necessaire 
-
 Sources : https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
 
 ## Canevas Cosmique
@@ -104,6 +133,38 @@ Voici l'équipe de  Canevas Cosmique :
 - Mikael tourangeau
 
 ## équipement necessaire 
+Voici une liste de l'équipement necessaire :
+
+- Lumière
+
+- 1 Lumière DMX
+- Audio
+
+- 2 haut-parleurs
+- 5 fils XLR 3 conducteurs de 15' (M->F)
+- 1 carte de son
+- Vidéo
+
+- 1 projecteur vidéo shortrow
+- 1 projo ultra short-throw
+- 3 système d'acrochage
+- 1 KinectV2
+- Électricité
+
+- 2 cordon IEC (pour l'alimentation des haut-parleurs)
+- 4 Multiprises
+- Réseau
+
+- Switch poe 1 port
+- Switch Ethernet 3 ports
+- 7 Cables Ethernet
+- 4 Cables HDMI
+- 2 Receivers HDMI
+- 2 Sender HDMI
+- Ordinateur
+
+- 1 ordinateur
+- 1 laptop
 
 Sources : https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 
