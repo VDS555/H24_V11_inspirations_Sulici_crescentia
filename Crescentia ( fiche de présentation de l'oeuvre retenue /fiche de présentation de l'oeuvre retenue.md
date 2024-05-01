@@ -77,7 +77,7 @@ ce qui serait attendu d'un utilisayeur, c'est tout simplement de s'amuser! Et ou
 Personellement, je trouve que l'entieretée de l'oeuvre était non seulement agréable, mais tout aussi impressionante. L'interractivité fesait déja une grande partie. La détection des mouvements était limité, cependant pour ue équipe étudiante, c'est extremement bien. Le systeme me r'apellais du jeux «Just Dance» et c'est une positif. Par allieur, je pense que lùtilisation etait tres intuitive. Il y avait une délimitation par terre et des qu'on rentre dedans, notre personnage apparait.
 
 ## Ce que je changerais
-Je pense que pour ce que je changerais, ce serait plutot un ajout. Un mode de jeux different ou il faudrait passer a travers des formes. Un peu comme l`'émission «Sa passe ou sa casse». Sa r'ajouterais tout une autre dimension a l'oeuvre : non seulement d'amusement, mais aussi de potentiel. Ce que le monde interpreterais serait difféerent avec plusieurs mode de jeux. A une seule, le monde pensent que c'est seulement un prototype, mais a deux, les gens le percoivent directement comme un véritable jeux vidéo.
+Je pense que pour ce que je changerais, ce serait plutot un ajout. Un mode de jeux different ou il faudrait passer a travers des formes. Un peu comme l`'émission «Sa passe ou sa casse». Sa r'ajouterais toute une autre dimension a l'oeuvre : non seulement d'amusement, mais aussi de potentiel. Ce que le monde interpreterais serait difféerent avec plusieurs mode de jeux. A un seul, le monde pensent que c'est seulement un prototype, mais a deux, les gens le percoivent directement comme un véritable jeux vidéo.
 
 
 
